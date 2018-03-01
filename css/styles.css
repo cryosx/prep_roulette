@@ -1,1 +1,18 @@
+#title {
+	text-align:center;
+}
+#canvas {
+	display: block;
+    margin: auto;
+}
+
+#buttons {
+	display: block;
+	/*margin:auto;*/
+	text-align:center;
+}
+
+body {
+	font-family: 'Bungee Shade', cursive;
+}
 
